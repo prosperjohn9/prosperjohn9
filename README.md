@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I’m Prosper 👋
 
-<!--
-**prosperjohn9/prosperjohn9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full Stack Developer with 3+ years of experience building scalable and secure web applications.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Backend: C# (.NET 6/7/8), Java Spring Boot, Node.js, Python
+- Frontend: React, Next.js, TypeScript, JavaScript
+- Databases: SQL Server, PostgreSQL, MySQL, MongoDB
+- Security: JWT, OAuth
+- Tools: Git, Docker, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Work On
+- RESTful APIs & backend systems
+- Secure authentication & authorization
+- Performance optimization & clean architecture
+- Production-ready web applications
+
+📍 Istanbul, Turkey  
+🔗 LinkedIn: https://www.linkedin.com/in/prosperosaigbovo
